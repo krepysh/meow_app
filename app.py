@@ -1,6 +1,8 @@
 from flask import Flask
+import flask_config
 
 app = Flask(__name__)
+app.config.from_object(flask_config)
 
 
 @app.route('/')
