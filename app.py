@@ -7,7 +7,7 @@ app.config.from_object(flask_config)
 
 @app.route('/')
 def hello_world():  # put application's code here
-    return 'Meow!'
+    return 'Meow!Meow!Meow!Meow!Meow!Meow!Meow!Meow!Meow!Meow!'
 
 
 if __name__ == '__main__':
