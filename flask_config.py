@@ -1,1 +1,1 @@
-CONFIGURATION_VALUE = 'some extra long string'
+CONFIGURATION_VALUE = "some extra long string"
