@@ -1,0 +1,3 @@
+[submodule "flask_feature_flag"]
+	path = flask_feature_flag
+	url = https://github.com/krepysh/flask_feature_flag
